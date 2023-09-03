@@ -1,4 +1,4 @@
-<p nameClase=h1>
+
   using System;
 
 class Program
@@ -40,5 +40,5 @@ class Program
         }
     }
 }
-</p>
+
 
